@@ -197,12 +197,6 @@ mtk-socinfo.ko
 test-kit.ko
 oplus_chg.ko
 rt_pd_manager.ko
-oplus_connectivity_sla.ko
-oplus_connectivity_routerboost.ko
-oplus_wificapcenter.ko
-oplus_secure_harden.ko
-oplus_security_guard.ko
-oplus_security_keventupload.ko
 arm_dsu_pmu.ko
 cache-parity.ko
 emi-slb.ko

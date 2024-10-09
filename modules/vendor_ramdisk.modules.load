@@ -190,9 +190,6 @@ pn553.ko
 sn_ese.ko
 nfc_i2c.ko
 p73.ko
-oplus_secure_harden.ko
-oplus_security_guard.ko
-oplus_security_keventupload.ko
 arm_dsu_pmu.ko
 mtk-swpm-perf-arm-pmu.ko
 cache-parity.ko
