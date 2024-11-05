@@ -9,6 +9,8 @@ aee_aed.ko
 aee_hangdet.ko
 monitor_hang.ko
 mtk_printk_ctrl.ko
+zsmalloc.ko
+zram.ko
 log_store.ko
 nvmem_mtk-devinfo.ko
 mtk_wdt.ko
