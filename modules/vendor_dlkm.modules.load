@@ -89,7 +89,6 @@ cpudvfs.ko
 atf_logger.ko
 mtk-vow.ko
 mtk-scp-vow.ko
-mtk_perf_common.ko
 mcupm.ko
 mtk_cm_ipi.ko
 mtk_cm_mgr.ko
